@@ -1,0 +1,14 @@
+p,
+dl {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+dl > dt {
+    font-weight: normal;
+    font-style: oblique;
+    color: aquamarine;
+}
+
+dd {
+    margin-bottom: 1rem;
+}
